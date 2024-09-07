@@ -13,27 +13,27 @@
 
 <h2 id="content-pt">Português</h2>
 <ul>
+  <li>⚙ Atualmente trabalho na <strong>Conte tecnologia</strong>, onde utilizo <strong>Angular, spring boot, React e Laravel</strong> no meu dia a dia</li>
   <li>🌱 Estou aprendendo <strong>Spring Boot e Angular para Desenvolvimento Web</strong></li>
   <li>👯 Estou buscando colaborar em <strong>projetos de Desenvolvimento</strong></li>
   <li>👨‍🎓 Sou estudante de Sistemas de Informação na UEG e estou no sexto período</li>
   <li>📚 Sempre estou fazendo cursos e lendo livros da área de TI para me aperfeiçoar</li>
-  <li>🤝 Estou buscando ajuda para <strong>conseguir um trabalho como Desenvolvedor/strong></li>
   <li>👨‍💻 Todos os meus projetos estão disponíveis aqui no GitHub (;</li>
   <li>💬 Pergunte-me sobre <strong>Java, Angular, C# (Unity) ou R :D</strong></li>
-  <li>📫 Como me contatar <strong>lucasapparecido91@gmail.com</strong></li>
+  <li>📫 Como me contatar <strong>lucasapparecidodev@gmail.com</strong></li>
   <li>📄 Saiba mais sobre minhas experiências no <a href="https://www.linkedin.com/in/lucas-apparecido-de-oliveira-aa0670207/">linkedin</a></li>
 </ul>
 
 <h2 id="content-en">English</h2>
 <ul>
+  <li>⚙ I currently work at <strong>Conte Tecnologia</strong>, where I use <strong>Angular, Spring Boot, React, and Laravel</strong> in my daily tasks</li>
   <li>🌱 I’m currently learning <strong>Spring Boot and Angular for Web Development</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Development projects</strong></li>
   <li>👨‍🎓 I’m an Information Systems student at UEG, currently in the sixth semester</li>
   <li>📚 I’m always taking courses and reading books in the IT field to improve my skills</li>
-  <li>🤝 I’m looking for help with <strong>finding a job as a Developer</strong></li>
   <li>👨‍💻 All of my projects are available here on GitHub (;</li>
   <li>💬 Ask me about <strong>Java, Angular, C# (Unity), or R :D</strong></li>
-  <li>📫 How to reach me <strong>lucasapparecido91@gmail.com</strong></li>
+  <li>📫 How to reach me <strong>lucasapparecidodev@gmail.com</strong></li>
   <li>📄 Learn more about my experiences on <a href="https://www.linkedin.com/in/lucas-apparecido-de-oliveira-aa0670207/">LinkedIn</a></li>
   
   <h3 align="left">Languages and Tools:</h3>
