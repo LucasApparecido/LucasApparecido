@@ -73,8 +73,6 @@
                 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> </a> </p>
                 
 
-<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasapparecido&show_icons=true&locale=en&layout=donut&theme=gruvbox&bg_color=00000000" alt="lucasapparecido" /></p>
-
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasapparecido&show_icons=true&theme=gruvbox&locale=en&bg_color=00000000" alt="lucasapparecido" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasApparecido&theme=gruvbox&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat&card_width=828&background=EB545400)](https://git.io/streak-stats)
