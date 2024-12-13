@@ -13,7 +13,7 @@
 
 <h2 id="content-pt">Português</h2>
 <ul>
-  <li>⚙ Atualmente trabalho na <strong>Conte tecnologia</strong>, onde utilizo <strong>Angular, spring boot, React e Laravel</strong> no meu dia a dia</li>
+  <li>⚙ Atualmente trabalho na <strong>Conte tecnologia</strong>, onde utilizo <strong>Angular e Spring Boot</strong> no meu dia a dia</li>
   <li>🌱 Estou aprendendo <strong>Spring Boot e Angular para Desenvolvimento Web</strong></li>
   <li>👯 Estou buscando colaborar em <strong>projetos de Desenvolvimento</strong></li>
   <li>👨‍🎓 Sou estudante de Sistemas de Informação na UEG e estou no sexto período</li>
@@ -26,7 +26,7 @@
 
 <h2 id="content-en">English</h2>
 <ul>
-  <li>⚙ I currently work at <strong>Conte Tecnologia</strong>, where I use <strong>Angular, Spring Boot, React, and Laravel</strong> in my daily tasks</li>
+  <li>⚙ I currently work at <strong>Conte Tecnologia</strong>, where I use <strong>Angular and Spring Boot</strong> in my daily tasks</li>
   <li>🌱 I’m currently learning <strong>Spring Boot and Angular for Web Development</strong></li>
   <li>👯 I’m looking to collaborate on <strong>Development projects</strong></li>
   <li>👨‍🎓 I’m an Information Systems student at UEG, currently in the sixth semester</li>
@@ -73,10 +73,6 @@
                 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/> </a> </p>
                 
 <p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasapparecido&show_icons=true&locale=en&layout=donut&theme=gruvbox&bg_color=00000000" alt="lucasapparecido" /></p>
-
-<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasapparecido&show_icons=true&theme=gruvbox&locale=en&bg_color=00000000" alt="lucasapparecido" /></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasApparecido&theme=gruvbox&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat&card_width=828&background=EB545400)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
